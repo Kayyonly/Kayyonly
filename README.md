@@ -36,7 +36,7 @@ Hi! I'm KayyDeveloper, a passionate web and software developer. I love solving c
 |--------------|-----------|------------|
 | **[ForYou](https://github.com/KayyOnly/ForYou)** | **49** | **52** |
 | **[Birthday](https://github.com/KayyOnly/Birthday-)** | **41** | **29** |
-| **[HappyGirlfriendDay](https://github.com/KayyOnly/HappyGirlfriendDay)** | **28** | **40** |
+| **[Portofolio Responsive](https://github.com/KayyOnly/Portofolio)** | **28** | **40** |
 
 ---
 
