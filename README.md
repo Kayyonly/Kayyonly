@@ -24,7 +24,7 @@ Hi! I'm KayyDeveloper, a passionate web and software developer. I love solving c
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KayyOnly&show_icons=true&theme=radical" alt="GitHub Stats" width="300px" style="max-width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayyOnly&theme=radical" alt="GitHub Streak Stats" width="150px" style="max-width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayyOnly&theme=radical" alt="GitHub Streak Stats" width="250px" style="max-width: 100%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayyOnly&layout=compact&theme=radical" alt="Top Languages" width="300px" style="max-width: 100%;"/>
 </div>
 
