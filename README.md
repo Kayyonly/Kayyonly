@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me send gmail : kenzonly12@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'am New
 
 <!---
 Kayyonly/Kayyonly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
