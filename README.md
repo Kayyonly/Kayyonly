@@ -1,11 +1,17 @@
 <div align="center">
+
 # hey, i'm Kayy
+
 14 y/o · Still learning · Made in Indonesia 🇮🇩
+
 ---
 
 **#IMPHEN** — Ingin Menjadi Programmer Handal Namun Enggan Ngoding
+
 </div>
+
 ---
+
 ## About Me
 
 Hey.. 👋 <br>
@@ -17,11 +23,13 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 If you wanna collab or just say hi — my DMs are open. 🤙
 
 > *"Still learning, but never stopping."*
+
 ---
 
 <div align="center">
 
 ### Stack
+
 **Languages**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
