@@ -1,16 +1,16 @@
 <div align="center">
 
-# hey, i'm Kayy 👋
+# hey, i'm Kayy
 
-*14 y/o · Still learning · Made in Indonesia 🇮🇩*
-
----
-
-**#IMPHEN** — Ingin Menjadi Programmer Handal Namun Enggan Ngoding 😅
+14 y/o · Still learning · Made in Indonesia 🇮🇩
 
 ---
 
-### 🛠 Stack
+**#IMPHEN** — Ingin Menjadi Programmer Handal Namun Enggan Ngoding
+
+---
+
+### Stack
 
 **Languages**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -33,33 +33,34 @@
 
 ---
 
-### 📊 Stats
+### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kayyonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kayyonly&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Kayyonly&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-### 📈 Activity Graph
+### GitHub Trophies
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayyonly&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayyonly&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayyonly&theme=default&utcOffset=7)
+
+### Top Contributed Repo
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayyonly&theme=default)
 
 ---
 
-### 🔗 Find me
+### Find me
+
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=netlify)](https://kayydeveloper.netlify.app/)
 [![TikTok](https://img.shields.io/badge/TikTok-000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@graabooyu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kenzmangeaa)
 
 ---
 
-### ☕ Traktir Kopi?
+### Traktir Kopi?
 
 *Kalau kamu suka projek-projekku, boleh traktir kopi buat semangat ngoding!*
 
