@@ -40,6 +40,18 @@
 
 ---
 
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kayyonly&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayyonly&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🔗 Find me
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=netlify)](https://kayydeveloper.netlify.app/)
 [![TikTok](https://img.shields.io/badge/TikTok-000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@graabooyu)
