@@ -1,17 +1,27 @@
 <div align="center">
-
 # hey, i'm Kayy
-
 14 y/o · Still learning · Made in Indonesia 🇮🇩
-
 ---
 
 **#IMPHEN** — Ingin Menjadi Programmer Handal Namun Enggan Ngoding
+</div>
+---
+## About Me
 
+Hey.. 👋 <br>
+Welcome to my little corner of GitHub! I'm **Kayy**, a 14 y/o self-taught developer from Indonesia who's genuinely curious about how things work — especially on the web.
+
+I started with the basics and somehow ended up loving the whole ecosystem: from building UIs with React & Next.js to writing backend logic with Node.js. Not gonna lie, sometimes the bugs win. But I keep showing up.
+
+Currently learning, building, and occasionally breaking things on purpose (for science). <br>
+If you wanna collab or just say hi — my DMs are open. 🤙
+
+> *"Still learning, but never stopping."*
 ---
 
-### Stack
+<div align="center">
 
+### Stack
 **Languages**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -36,7 +46,7 @@
 ### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Kayyonly&theme=default&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Kayyonly&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
