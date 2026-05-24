@@ -1,68 +1,56 @@
-<h1 align="center">✨ Welcome to KayyOnly's Profile ✨</h1>
-
 <div align="center">
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Made%20In-FF0000?style=for-the-badge&logo=Made%20In&logoColor=white" alt="Made In" />
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&logo=Indonesia&logoColor=white" alt="Indonesia" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="250px" style="max-width: 100%;"/>
-</div>
+# hey, i'm Kayy 👋
+
+*14 y/o · Still learning · Made in Indonesia 🇮🇩*
 
 ---
 
-## 🚀 About Me
-Hi! I'm KayyDeveloper, a passionate web and software developer. I love solving complex problems and bringing creative ideas to life through code. My expertise lies in Web Development, and Python programming. Outside of work, I enjoy gaming, coding, and engaging with the tech community.
+**#IMPHEN** — Ingin Menjadi Programmer Handal Namun Enggan Ngoding 😅
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+### 🛠 Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayyOnly&show_icons=true&theme=radical" alt="GitHub Stats" width="300px" style="max-width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayyOnly&theme=radical" alt="GitHub Streak Stats" width="250px" style="max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayyOnly&layout=compact&theme=radical" alt="Top Languages" width="300px" style="max-width: 100%;"/>
-</div>
+**Languages**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<h2 align="center">Top 3 Projects</h2>
-
-| Project Name | Stars (⭐) | Forks (🍴) |
-|--------------|-----------|------------|
-| **[ForYou](https://github.com/KayyOnly/ForYou)** | **49** | **52** |
-| **[Birthday](https://github.com/KayyOnly/Birthday-)** | **41** | **29** |
-| **[Portofolio Responsive](https://github.com/KayyOnly/Portofolio)** | **28** | **40** |
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<div align="center">
-  <a href="https://www.instagram.com/_4lghifari_/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/+6288210982908" rel="nofollow">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/CodesphereCommunity" rel="nofollow">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>📈 Profile Stats</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=KayyOnly&theme=radical" alt="Profile Trophies" width="400px" style="max-width: 100%;"/>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KayyOnly&label=Profile%20Views&icon=1&pretty=true" alt="Profile Views"/>
-</div>
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<h2 align="center">💖 Thanks for Visiting!</h2><h1 align="center">✨ Welcome to KayyDeveloper's Profile ✨</h1>
+### 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Kayyonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🔗 Find me
+[![Website](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=netlify)](https://kayydeveloper.netlify.app/)
+[![TikTok](https://img.shields.io/badge/TikTok-000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@graabooyu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kenzmangeaa)
+
+---
+
+### ☕ Traktir Kopi?
+
+*Kalau kamu suka projek-projekku, boleh traktir kopi buat semangat ngoding!*
+
+[![Sociabuzz](https://img.shields.io/badge/Traktir%20Kopi-FF5722?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://sociabuzz.com/kayyofficial)
+
+</div>
