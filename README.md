@@ -1,87 +1,150 @@
+````md
 <div align="center">
 
-# hey, i'm Kayy
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHllY3o5cDZzN2hyN2t6cWx5djJlbXJyd2Q3YmRjN2x1OWc4d3V6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
 
-14 y/o · Still learning · Made in Indonesia 🇮🇩
+# Hi, I'm Kayy 👋
 
----
+### Front-End Developer • UI Enthusiast • Student Builder
 
-**#IMPHEN** — Ingin Menjadi Programmer Handal Namun Enggan Ngoding
+<p>
+Building interfaces, exploring new technologies, and turning ideas into things people can actually use.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Hey.. 👋 <br>
-Welcome to my little corner of GitHub! I'm **Kayy**, a 14 y/o self-taught developer from Indonesia who's genuinely curious about how things work — especially on the web.
+I'm a student who enjoys building web applications and experimenting with modern technologies.
 
-I started with the basics and somehow ended up loving the whole ecosystem: from building UIs with React & Next.js to writing backend logic with Node.js. Not gonna lie, sometimes the bugs win. But I keep showing up.
+Most of my time is spent learning how to create experiences that are fast, responsive, and visually appealing. I like solving problems related to user interfaces, application performance, and turning creative ideas into real products.
 
-Currently learning, building, and occasionally breaking things on purpose (for science). <br>
-If you wanna collab or just say hi — my DMs are open. 🤙
+Currently interested in:
 
-> *"Still learning, but never stopping."*
+- Front-End Development
+- UI/UX Design
+- Artificial Intelligence Integration
+- Web Performance Optimization
+- Open Source Projects
+- SaaS & Startup Building
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+
+### Front-End
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+
+### Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```txt
+✓ Building modern web applications
+✓ Learning AI integration in web products
+✓ Improving UI/UX design skills
+✓ Exploring SaaS product development
+✓ Contributing to open-source projects
+```
+
+---
+
+## 🎥 Featured Project & Workspace
+
+<details>
+<summary>📺 View Workspace & Project Showcase</summary>
+
+<br>
+
+### Workspace Setup
+
+Replace with your own GIF/video:
+
+<img src="YOUR_WORKSPACE_GIF_HERE" width="100%" />
+
+### Featured Project Demo
+
+[▶ Watch Demo Video](YOUR_VIDEO_LINK)
+
+### Project Screenshot
+
+<img src="YOUR_PROJECT_SCREENSHOT" width="100%" />
+
+</details>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/USERNAME_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Stack
-
-**Languages**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Kayyonly&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### GitHub Trophies
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayyonly&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayyonly&theme=default&utcOffset=7)
-
-### Top Contributed Repo
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayyonly&theme=default)
-
----
-
-### Find me
-
-[![Website](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=netlify)](https://kayydeveloper.netlify.app/)
-[![TikTok](https://img.shields.io/badge/TikTok-000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@graabooyu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kenzmangeaa)
-
----
-
-### Traktir Kopi?
-
-*Kalau kamu suka projek-projekku, boleh traktir kopi buat semangat ngoding!*
-
-[![Sociabuzz](https://img.shields.io/badge/Traktir%20Kopi-FF5722?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://sociabuzz.com/kayyofficial)
+### "Learning, building, breaking things, and building them better."
 
 </div>
+````
