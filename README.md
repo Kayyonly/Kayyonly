@@ -1,150 +1,178 @@
-````md
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHllY3o5cDZzN2hyN2t6cWx5djJlbXJyd2Q3YmRjN2x1OWc4d3V6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 
-# Hi, I'm Kayy 👋
+# hey, i'm Kayy 👋
 
-### Front-End Developer • UI Enthusiast • Student Builder
+### Front-End Developer • Student Builder • Made in Indonesia 🇮🇩
 
-<p>
-Building interfaces, exploring new technologies, and turning ideas into things people can actually use.
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kayyonly&label=Profile+Views&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<br>
+
+**#IMPHEN**  
+*Ingin Menjadi Programmer Handal Namun Enggan Ngoding*
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a student who enjoys building web applications and experimenting with modern technologies.
+Hey there 👋
 
-Most of my time is spent learning how to create experiences that are fast, responsive, and visually appealing. I like solving problems related to user interfaces, application performance, and turning creative ideas into real products.
+Welcome to my little corner of GitHub.
 
-Currently interested in:
+I'm **Kayy**, a 14-year-old self-taught developer from Indonesia who enjoys turning ideas into real projects.
 
-- Front-End Development
-- UI/UX Design
-- Artificial Intelligence Integration
-- Web Performance Optimization
-- Open Source Projects
-- SaaS & Startup Building
+What started with simple HTML pages slowly turned into an obsession with building modern web applications. Nowadays, I spend most of my time exploring React, Next.js, Node.js, AI integrations, and anything that helps create better user experiences.
+
+Some projects work exactly as planned.
+
+Most don't.
+
+But that's part of the fun.
+
+Currently learning, building, and occasionally breaking things on purpose (for science).
+
+> *Still learning, but never stopping.*
 
 ---
+
+## 🚀 Current Focus
+
+- Building modern web applications
+- Exploring AI-powered products
+- Learning backend architecture
+- Improving UI/UX design skills
+- Creating projects people actually use
+
+---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Front-End
+### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
-
-### Backend & Database
-
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kayyonly&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kayyonly&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-```txt
-✓ Building modern web applications
-✓ Learning AI integration in web products
-✓ Improving UI/UX design skills
-✓ Exploring SaaS product development
-✓ Contributing to open-source projects
-```
+## 🏆 Contribution Insights
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayyonly&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayyonly&theme=tokyonight&utcOffset=7" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayyonly&theme=tokyonight" />
+
+</div>
 
 ---
 
-## 🎥 Featured Project & Workspace
+## 🎥 Workspace & Project Showcase
 
 <details>
-<summary>📺 View Workspace & Project Showcase</summary>
+<summary>Click to view my setup & projects</summary>
 
 <br>
 
 ### Workspace Setup
 
-Replace with your own GIF/video:
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
-<img src="YOUR_WORKSPACE_GIF_HERE" width="100%" />
+### Featured Projects
 
-### Featured Project Demo
-
-[▶ Watch Demo Video](YOUR_VIDEO_LINK)
-
-### Project Screenshot
-
-<img src="YOUR_PROJECT_SCREENSHOT" width="100%" />
+- 🎵 Vyratune — AI Music Platform
+- 🤖 WhatsApp Automation Bot
+- 🪪 OCR KTP & KK Reader
+- 🌐 Personal Portfolio Website
 
 </details>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+## 🌐 Find Me
 
-<a href="https://github.com/USERNAME_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
+<a href="https://kayydeveloper.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
+<a href="https://www.tiktok.com/@graabooyu">
+<img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail">
+<a href="https://instagram.com/kenzmangeaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### "Learning, building, breaking things, and building them better."
+## ☕ Traktir Kopi?
+
+Kalau kamu suka proyek-proyekku dan ingin mendukung perjalanan belajarku, kamu bisa traktir kopi.
+
+<a href="https://sociabuzz.com/kayyofficial">
+<img src="https://img.shields.io/badge/Traktir_Kopi-FF5722?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+</a>
 
 </div>
-````
+
+---
+
+<div align="center">
+
+### Building. Learning. Failing. Improving.
+
+*"The best project is the one you actually finish."*
+
+</div>
+```
