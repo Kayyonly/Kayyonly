@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-
 # hey, i'm Kayy 👋
 
 ### Front-End Developer • Student Builder • Made in Indonesia 🇮🇩
@@ -24,9 +22,9 @@ Hey there 👋
 
 Welcome to my little corner of GitHub.
 
-I'm **Kayy**, a 14-year-old self-taught developer from Indonesia who enjoys turning ideas into real projects.
+I'm **Kayy**, a 14-year-old self-taught developer from Indonesia who's genuinely curious about how things work — especially on the web.
 
-What started with simple HTML pages slowly turned into an obsession with building modern web applications. Nowadays, I spend most of my time exploring React, Next.js, Node.js, AI integrations, and anything that helps create better user experiences.
+I started with the basics and somehow ended up loving the whole ecosystem: from building interfaces with React & Next.js to writing backend logic with Node.js and experimenting with AI-powered applications.
 
 Some projects work exactly as planned.
 
@@ -43,10 +41,11 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 ## 🚀 Current Focus
 
 - Building modern web applications
-- Exploring AI-powered products
+- Exploring AI integrations
 - Learning backend architecture
 - Improving UI/UX design skills
-- Creating projects people actually use
+- Developing useful products for real users
+- Contributing to open-source projects
 
 ---
 
@@ -56,25 +55,25 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 
 ### Languages
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -82,13 +81,13 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kayyonly&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://streak-stats.demolab.com/?user=Kayyonly&theme=default&hide_border=false)
 
-<img src="https://streak-stats.demolab.com?user=Kayyonly&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayyonly&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -96,39 +95,40 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 
 <div align="center">
 
-## 🏆 Contribution Insights
+## 🏆 GitHub Insights
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayyonly&theme=tokyonight" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayyonly&theme=default)
 
-<br><br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayyonly&theme=default&utcOffset=7)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayyonly&theme=tokyonight&utcOffset=7" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayyonly&theme=tokyonight" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayyonly&theme=default)
 
 </div>
 
 ---
 
-## 🎥 Workspace & Project Showcase
+## 🎯 Featured Projects
 
 <details>
-<summary>Click to view my setup & projects</summary>
+<summary>Click to expand</summary>
 
 <br>
 
-### Workspace Setup
+### 🎵 Vyratune
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+AI-powered music platform built with modern web technologies.
 
-### Featured Projects
+### 🤖 WhatsApp Automation
 
-- 🎵 Vyratune — AI Music Platform
-- 🤖 WhatsApp Automation Bot
-- 🪪 OCR KTP & KK Reader
-- 🌐 Personal Portfolio Website
+Automation tools and chatbot experiments.
+
+### 🪪 OCR KTP & KK Reader
+
+Document recognition and extraction project.
+
+### 🌐 Personal Portfolio
+
+My personal website and project showcase.
 
 </details>
 
@@ -138,17 +138,11 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 
 ## 🌐 Find Me
 
-<a href="https://kayydeveloper.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel">
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://kayydeveloper.netlify.app)
 
-<a href="https://www.tiktok.com/@graabooyu">
-<img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok">
-</a>
+[![TikTok](https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@graabooyu)
 
-<a href="https://instagram.com/kenzmangeaa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kenzmangeaa)
 
 </div>
 
@@ -160,9 +154,7 @@ Currently learning, building, and occasionally breaking things on purpose (for s
 
 Kalau kamu suka proyek-proyekku dan ingin mendukung perjalanan belajarku, kamu bisa traktir kopi.
 
-<a href="https://sociabuzz.com/kayyofficial">
-<img src="https://img.shields.io/badge/Traktir_Kopi-FF5722?style=for-the-badge&logo=buymeacoffee&logoColor=white">
-</a>
+[![Sociabuzz](https://img.shields.io/badge/Traktir%20Kopi-FF5722?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://sociabuzz.com/kayyofficial)
 
 </div>
 
