@@ -8,8 +8,6 @@
 
 ### Front-End Developer • Student Builder • Made in Indonesia 🇮🇩
 
-<img src="https://komarev.com/ghpvc/?username=Kayyonly&label=Profile+Views&style=for-the-badge" />
-
 <br>
 
 **#IMPHEN**  
